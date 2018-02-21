@@ -1,0 +1,1 @@
+This repo holds program prompts and vocabulary that academy students can use for self assessment. Modules roughly match one week in the full time course, or two weeks in the evening course.
