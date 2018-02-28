@@ -21,7 +21,7 @@ Specific Things:
 * Integer
 * Double
 * Character
-* Concatination
+* Concatenation
 * Array
 * Assignment Operator (examples of, what they do)
 * Comparison Operator (examples of, what they do)
