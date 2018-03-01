@@ -23,6 +23,7 @@ Specific Things:
 * Character
 * Concatenation
 * Array
+* Array Index
 * Assignment Operator (examples of, what they do)
 * Comparison Operator (examples of, what they do)
 * Mathematical Operators (examples of)
