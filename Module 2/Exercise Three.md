@@ -1,6 +1,6 @@
 Write a program that can do the following:
 
-Ask the user for a sentence. Return the number of each letter in the sentence. Bonus points for ordering the list from highest to lowest.
+Ask the user for a sentence. Return the number of times each letter appears in the sentence. Bonus points for ordering the list from most frequent to least.
 
 ```
 Please enter a sentence
