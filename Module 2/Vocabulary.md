@@ -6,6 +6,8 @@
 * Entry Point
 * Void
 * Class
+* Instance
+* Object
 * Constructor
 * Member Variable/Instance Variable
 * Property
