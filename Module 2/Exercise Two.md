@@ -5,5 +5,5 @@ Write a program that uses this function that asks a user for a number, then retu
 ```
 Please enter a number:
 > 8398
-eight thousand, three hundred, and nintey eight
+eight thousand, three hundred, and ninety eight
 ```
