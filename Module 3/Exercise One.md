@@ -4,6 +4,8 @@ Sugguestion: Use a Hash to look up roman numerals.
 
 
 ------------------------------------
+Example program run:
+```
 Welcome to the Roman Numeral converter!
 Please type in a number to be converted.
 5
@@ -15,3 +17,4 @@ Please type in a number to be converted.
 Roman Numeral equivelent: VI
 Would you like to convert another? [Y]es [N]o
 N
+```
