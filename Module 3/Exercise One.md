@@ -1,10 +1,10 @@
+## Roman Numeral converter
 Create an application to convert numbers to their roman numeral equivelent.
 
-Sugguestion: Use a Hash to look up roman numerals.
+Suggestion: Use a hash to look up roman numerals.
 
 
-------------------------------------
-Example program run:
+### Example program run
 ```
 Welcome to the Roman Numeral converter!
 Please type in a number to be converted.
