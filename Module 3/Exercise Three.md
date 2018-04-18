@@ -2,7 +2,7 @@
 
 Build a shopping cart to calculate the total cost of an array of items. The app will need to support buy-one-get-one sales.
 
-Use a function that takes an array of strings and returns the cost: `Checkout(string[]):decimal`
+Use a function that takes an array of strings and returns the cost as a decimal: `checkout(string[]):decimal`
 
 Items that can be in the list:
 
