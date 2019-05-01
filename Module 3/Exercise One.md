@@ -9,12 +9,12 @@ Suggestion: Use a hash to look up roman numerals.
 Welcome to the Roman Numeral converter!
 Please type in a number to be converted.
 5
-Roman Numeral equivelent: V
+Roman Numeral equivalent: V
 Would you like to convert another? [Y]es [N]o
 Y
 Please type in a number to be converted.
 6
-Roman Numeral equivelent: VI
+Roman Numeral equivalent: VI
 Would you like to convert another? [Y]es [N]o
 N
 ```
