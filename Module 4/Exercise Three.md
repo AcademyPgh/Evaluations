@@ -1,5 +1,5 @@
 ## Write some thoroughly tested code
-Make your tests from [exercise 2](Exercise Two.md) real - write a test file and a Roman numeral converter that passes your test cases.
+Make your tests from [exercise 2](Exercise%20Two.md) real - write a test file and a Roman numeral converter that passes your test cases.
 
 Give it to another human being and see if
 1. They can break it in a way you haven't documented through tests
